@@ -97,3 +97,8 @@ h2 {
   top: 0;
   right: 0;
 }
+.copyright {
+  color: #0a0909;
+  text-align: left;
+  font-size: 11px;
+}
